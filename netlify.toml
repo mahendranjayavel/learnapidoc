@@ -1,5 +1,5 @@
 [[redirects]]
 from = "/learnapidoc/*"
-to = "https://learnapi.netlify.app/:splat"
+to = "https://tubular-cactus-7895a0.netlify.app/:splat"
 status = 200
 force = false
