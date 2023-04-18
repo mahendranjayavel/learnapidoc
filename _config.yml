@@ -8,7 +8,7 @@ media: https://s3.us-west-1.wasabisys.com/idbwmedia.com/images/api
 url: https://learnapi.netlify.app
 baseurl: /learnapidoc
 
-destination: _site
+destination: learnapidoc
 port: 4000
 highlighter: rouge
 exclude:
